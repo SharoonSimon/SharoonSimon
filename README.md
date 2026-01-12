@@ -1,7 +1,7 @@
 <h1>I Am Sharoon Simon 👨‍💻</h1>
 <h2>💻 Web Developer | Creative Problem Solver</h2>
 
-<h4>I build modern, responsive, and user-friendly websites using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS 🎨⚡</h4>
+<h4>🎨⚡ I build modern, responsive, and user-friendly websites using HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS</h4>
 <h4>🧩 Experienced with WordPress & Shopify for powerful CMS and eCommerce solutions</h4>
 <h4>🚀 Passionate about clean code, performance, and turning ideas into reality</h4>
 <br><br>
